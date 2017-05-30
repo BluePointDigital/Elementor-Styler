@@ -1,0 +1,2 @@
+# Elementor-Styler
+My team and I have been working on a styling plugin for elementor! It allows users to create &amp; share custom styles for widgets, columns or entire sections. With this plugin, we are able to create and share hover styles, image effects, button effects, animations, and soon to be much more! The plugin is just about ready for Alpha testing, but I would say it's more geared toward designers with decent CSS knowledge at the moment.
